@@ -4,28 +4,15 @@
   <servers>
     <server>
       <username>kumar.vahin309@gmail.com</username>
-      <password>cmVmdGtuOjAxOjE3NzE4Mjc1NDc6T3FKWGZialpaN1lOZVRtT2g5UGY2Um9kRFNi</password>
+      <password>cmVmdGtuOjAxOjE3NzE4MjkxNDQ6Vm9SNUJkY3Q4bVZNVXR3ZFJzWWZRdnhiUkRP</password>
       <id>central</id>
     </server>
     <server>
       <username>kumar.vahin309@gmail.com</username>
-      <password>cmVmdGtuOjAxOjE3NzE4Mjc1NDc6T3FKWGZialpaN1lOZVRtT2g5UGY2Um9kRFNi</password>
+      <password>cmVmdGtuOjAxOjE3NzE4MjkxNDQ6Vm9SNUJkY3Q4bVZNVXR3ZFJzWWZRdnhiUkRP</password>
       <id>snapshots</id>
     </server>
-    <server>
-      <username>kumar.vahin309@gmail.com</username>
-      <password>cmVmdGtuOjAxOjE3NzE4Mjc1NDc6T3FKWGZialpaN1lOZVRtT2g5UGY2Um9kRFNi</password>
-      <id>demo-libs-snapshot</id>
-    </server>
   </servers>
-  <mirrors>
-    <mirror>
-      <mirrorOf>*</mirrorOf>
-      <name>demo-libs-snapshot</name>
-      <url>https://manojdevops9.jfrog.io/artifactory/demo-libs-snapshot</url>
-      <id>demo-libs-snapshot</id>
-    </mirror>
-  </mirrors>
   <profiles>
     <profile>
       <repositories>

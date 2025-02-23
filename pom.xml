@@ -491,7 +491,7 @@
             </reporting>
         </profile>
     </profiles>
-<distributionManagement>
+   <distributionManagement>
     <repository>
         <id>central</id>
         <name>a0wi4bje8qw8b-artifactory-primary-0-releases</name>
